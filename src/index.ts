@@ -80,3 +80,5 @@ function init() {
   console.log('initializing...');
   new Canvas('canvas').addImage('bb.png');
 }
+
+init();
